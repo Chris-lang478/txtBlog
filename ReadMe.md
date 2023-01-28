@@ -1,4 +1,4 @@
-txtBlog v0.6
+APA
 ===============================
 	-- A simple yet powerful blog system for reading and organizing txt files based on PHP. 
 
